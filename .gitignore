@@ -72,3 +72,14 @@ local.properties
 *~
 # KDE directory preferences
 .directory
+
+
+Makefile
+INSTALL
+config.*
+.deps
+.libs
+
+exampleProgram/exampleProgram
+libtool
+ltmain.sh
