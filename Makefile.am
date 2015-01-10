@@ -1,0 +1,1 @@
+SUBDIRS=libCppGL include exampleProgram
